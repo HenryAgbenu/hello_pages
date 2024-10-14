@@ -1,0 +1,21 @@
+
+title: "My first page"
+
+
+``` {r}
+library(reactable)
+```
+:::{panel-tabset}
+
+```{r}
+reactable(infert)
+```
+
+
+```{r}
+plot(women)
+```
+```{r}
+
+```
+
