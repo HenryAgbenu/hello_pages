@@ -1,0 +1,20 @@
+
+
+
+``` {r}
+library(reactable)
+```
+:::{panel-tabset}
+
+```{r}
+reactable(iris)
+```
+
+
+```{r}
+plot(iris)
+```
+```{r}
+
+```
+
